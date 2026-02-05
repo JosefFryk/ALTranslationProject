@@ -1,0 +1,64 @@
+﻿.controlAddIn,
+#controlAddIn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+}
+
+.indicator {
+    width: 2.4em;
+    height: 2.4em;
+    background: linear-gradient(145deg, #4b4f56, #2f3339);
+    border-radius: 999px;
+    border: 1px solid rgba(255, 255, 255, 0.25);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: 1.2em;
+    font-weight: 700;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    cursor: pointer;
+    user-select: none;
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.35);
+    transition: background 0.2s ease, box-shadow 0.2s ease, transform 0.2s ease;
+}
+
+.indicator:hover {
+    transform: scale(1.05);
+}
+
+.indicator.on {
+    background: radial-gradient(circle at 30% 30%, #34d399, #0ea5e9);
+    box-shadow: 0 0 0 2px rgba(14, 165, 233, 0.25), 0 0 12px rgba(14, 165, 233, 0.5);
+    animation: breathe 2.6s ease-in-out infinite;
+}
+
+.indicator.off {
+    background: linear-gradient(145deg, #9aa0a9, #7b8088);
+    box-shadow: inset 0 1px 2px rgba(255, 255, 255, 0.35);
+    animation: none;
+}
+
+.indicator.updated {
+    background: radial-gradient(circle at 30% 30%, #fbbf24, #f97316);
+    box-shadow: 0 0 0 2px rgba(251, 191, 36, 0.25), 0 0 10px rgba(249, 115, 22, 0.4);
+}
+
+@keyframes breathe {
+    0% {
+        transform: scale(1);
+        box-shadow: 0 0 0 2px rgba(14, 165, 233, 0.2), 0 0 10px rgba(14, 165, 233, 0.35);
+    }
+    50% {
+        transform: scale(1.07);
+        box-shadow: 0 0 0 6px rgba(14, 165, 233, 0.15), 0 0 16px rgba(14, 165, 233, 0.5);
+    }
+    100% {
+        transform: scale(1);
+        box-shadow: 0 0 0 2px rgba(14, 165, 233, 0.2), 0 0 10px rgba(14, 165, 233, 0.35);
+    }
+}
+

@@ -1,0 +1,494 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="cs-CZ" original="ALTranslationProject">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 2411954415 - Field 1605594221 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Area of text</source><target state="translated">Oblast textu</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TranslationDB - Field Area of text - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2411954415 - Field 3074281231 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ARIA Label</source><target state="translated">Popisek ARIA</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TranslationDB - Field ARIA Label - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2411954415 - Field 3921959937 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ARIA Role</source><target state="translated">Role ARIA</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TranslationDB - Field ARIA Role - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2411954415 - Field 4130060952 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Corrected Translation</source><target state="translated">Opravený překlad</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TranslationDB - Field Corrected Translation - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2411954415 - Field 687818000 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cosmos Document ID</source><target state="translated">ID dokumentu Cosmos</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TranslationDB - Field Cosmos Document ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2411954415 - Field 2049026805 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>CSS Classes</source><target state="translated">Třídy CSS</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TranslationDB - Field CSS Classes - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2411954415 - Field 3245645833 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Data Attributes</source><target state="translated">Datové atributy</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TranslationDB - Field Data Attributes - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2411954415 - Field 897736109 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Element ID</source><target state="translated">ID prvku</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TranslationDB - Field Element ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2411954415 - Field 3669215363 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Element Name</source><target state="translated">Název prvku</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TranslationDB - Field Element Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2411954415 - Field 459507994 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Element Type</source><target state="translated">Typ prvku</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TranslationDB - Field Element Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2411954415 - Field 883711285 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Entry No.</source><target state="translated">Č. položky</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TranslationDB - Field Entry No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2411954415 - Field 406262101 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Frame Index</source><target state="translated">Index rámce</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TranslationDB - Field Frame Index - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2411954415 - Field 1019931697 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>HTML Tag</source><target state="translated">HTML značka</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TranslationDB - Field HTML Tag - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2411954415 - Field 2763181653 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Inner Text</source><target state="translated">Vnitřní text</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TranslationDB - Field Inner Text - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2411954415 - Field 4292282361 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Is ToolTip</source><target state="translated">Je nápověda</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TranslationDB - Field Is ToolTip - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2411954415 - Field 894914730 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Page ID</source><target state="translated">ID stránky</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TranslationDB - Field Page ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2411954415 - Field 1223712979 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Parent Chain</source><target state="translated">Řetězec nadřazených prvků</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TranslationDB - Field Parent Chain - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2411954415 - Field 1513541189 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Placeholder</source><target state="translated">Zástupný text</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TranslationDB - Field Placeholder - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2411954415 - Field 841428033 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Property Type</source><target state="translated">Typ vlastnosti</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TranslationDB - Field Property Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2411954415 - Field 2350441300 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Selector Path</source><target state="translated">Cesta selektoru</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TranslationDB - Field Selector Path - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2411954415 - Field 4078167330 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Synced</source><target state="translated">Synchronizováno</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TranslationDB - Field Synced - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2411954415 - Field 3524147737 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Synced DateTime</source><target state="translated">Datum a čas synchronizace</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TranslationDB - Field Synced DateTime - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2411954415 - Field 3499607352 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Title Attribute</source><target state="translated">Atribut title</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TranslationDB - Field Title Attribute - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2411954415 - Field 3400962969 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Translated Text</source><target state="translated">Přeložený text</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TranslationDB - Field Translated Text - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2411954415 - Field 1593390805 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>UI Area</source><target state="translated">Oblast UI</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TranslationDB - Field UI Area - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2279258808 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Translation Setup</source><target state="translated">Nastavení překladu</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TranslationSetup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2279258808 - Field 2527409296 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Capture Shortcut</source><target state="translated">Zkratka pro zachycení</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TranslationSetup - Field Capture Shortcut - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2279258808 - Field 2505711900 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Container Name</source><target state="translated">Název kontejneru</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TranslationSetup - Field Container Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2279258808 - Field 3359693069 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cosmos DB Endpoint</source><target state="translated">Koncový bod Cosmos DB</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TranslationSetup - Field Cosmos DB Endpoint - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2279258808 - Field 4136603814 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cosmos Time Offset (Minutes)</source><target state="translated">Časový posun Cosmos (minuty)</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TranslationSetup - Field Cosmos Time Offset (Minutes) - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2279258808 - Field 3149170790 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Database Name</source><target state="translated">Název databáze</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TranslationSetup - Field Database Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2279258808 - Field 2723849176 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Last Sync DateTime</source><target state="translated">Datum a čas poslední synchronizace</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TranslationSetup - Field Last Sync DateTime - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2279258808 - Field 900697603 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Last Sync Status</source><target state="translated">Stav poslední synchronizace</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TranslationSetup - Field Last Sync Status - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2279258808 - Field 1663593181 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Primary Key</source><target state="translated">Primární klíč</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TranslationSetup - Field Primary Key - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2279258808 - Field 3336421100 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Records Synced</source><target state="translated">Synchronizované záznamy</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TranslationSetup - Field Records Synced - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2279258808 - Field 2767662982 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sync Enabled</source><target state="translated">Synchronizace povolena</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TranslationSetup - Field Sync Enabled - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 876277669 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Set Cosmos DB Key</source><target state="translated">Nastavit klíč Cosmos DB</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Set Cosmos Key Dialog - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 876277669 - Control 864295971 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Enter Cosmos DB Primary Key</source><target state="translated">Zadejte primární klíč Cosmos DB</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Set Cosmos Key Dialog - Control KeyInput - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 876277669 - Control 237080667 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Enter your Azure Cosmos DB primary or secondary key</source><target state="translated">Zadejte primární nebo sekundární klíč Azure Cosmos DB</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Set Cosmos Key Dialog - Control CosmosKey - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 876277669 - Control 237080667 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cosmos DB Key</source><target state="translated">Klíč Cosmos DB</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Set Cosmos Key Dialog - Control CosmosKey - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 491025131 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Translations</source><target state="translated">Překlady</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TranslationList - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 491025131 - Control 1605594221 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The page or area where the text was captured</source><target state="translated">Stránka nebo oblast, kde byl text zachycen</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TranslationList - Control Area of text - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 491025131 - Control 4130060952 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Your corrected translation for this text</source><target state="translated">Vaše opravená varianta překladu pro tento text</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TranslationList - Control Corrected Translation - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 491025131 - Control 459507994 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Type of UI element: Field, Action, Menu, Tab, Column</source><target state="translated">Typ prvku UI: pole, akce, nabídka, karta, sloupec</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TranslationList - Control Element Type - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 491025131 - Control 894914730 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The Business Central page ID</source><target state="translated">ID stránky Business Central</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TranslationList - Control Page ID - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 491025131 - Control 841428033 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Caption or ToolTip</source><target state="translated">Popisek nebo nápověda</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TranslationList - Control Property Type - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 491025131 - Control 4078167330 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Indicates if this record has been synced to Cosmos DB</source><target state="translated">Určuje, zda byl tento záznam synchronizován s Cosmos DB</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TranslationList - Control Synced - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 491025131 - Control 3524147737 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>When this record was synced to Cosmos DB</source><target state="translated">Kdy byl tento záznam synchronizován s Cosmos DB</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TranslationList - Control Synced DateTime - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 491025131 - Control 3400962969 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The original text captured from the UI</source><target state="translated">Původní text zachycený z uživatelského rozhraní</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TranslationList - Control Translated Text - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 491025131 - Control 1593390805 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ribbon, List, Dialog, Content</source><target state="translated">Pás karet, seznam, dialog, obsah</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TranslationList - Control UI Area - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 491025131 - Action 4090651158 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Mark the selected records as unsynced (will be re-synced on next run)</source><target state="translated">Označit vybrané záznamy jako nesynchronizované (při příštím spuštění se znovu synchronizují)</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TranslationList - Action MarkAsUnsynced - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 491025131 - Action 4090651158 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Mark as Unsynced</source><target state="translated">Označit jako nesynchronizované</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TranslationList - Action MarkAsUnsynced - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 491025131 - Action 4007289061 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Open the Translation Setup page</source><target state="translated">Otevřít stránku Nastavení překladu</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TranslationList - Action OpenSetup - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 491025131 - Action 4007289061 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Setup</source><target state="translated">Nastavení</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TranslationList - Action OpenSetup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 491025131 - Action 2373794858 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sync the selected records to Cosmos DB</source><target state="translated">Synchronizovat vybrané záznamy do Cosmos DB</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TranslationList - Action SyncSelected - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 491025131 - Action 2373794858 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sync Selected</source><target state="translated">Synchronizovat vybrané</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TranslationList - Action SyncSelected - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2279258808 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Translation Setup</source><target state="translated">Nastavení překladu</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TranslationSetup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2279258808 - Control 2644753651 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Capture Settings</source><target state="translated">Nastavení zachytávání</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TranslationSetup - Control CaptureSettings - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2279258808 - Control 2527409296 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Keyboard shortcut to capture text (e.g., Ctrl+Shift+F, Alt+T). Restart role center after change.</source><target state="translated">Klávesová zkratka pro zachycení textu (např. Ctrl+Shift+F, Alt+T). Po změně restartujte Role Center.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TranslationSetup - Control Capture Shortcut - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2279258808 - Control 3247408244 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Azure Cosmos DB</source><target state="translated">Azure Cosmos DB</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TranslationSetup - Control CosmosDB - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2279258808 - Control 2505711900 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The name of the container for BC corrections. Default: BCCorrections</source><target state="translated">Název kontejneru pro opravy BC. Výchozí: BCCorrections</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TranslationSetup - Control Container Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2279258808 - Control 3359693069 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The endpoint URL of your Azure Cosmos DB account (e.g., https://your-account.documents.azure.com:443/)</source><target state="translated">Koncová adresa URL vašeho účtu Azure Cosmos DB (např. https://your-account.documents.azure.com:443/)</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TranslationSetup - Control Cosmos DB Endpoint - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2279258808 - Control 4136603814 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Adjust the time used for Cosmos DB auth in minutes (negative if server time is ahead). Cosmos accepts only about +/- 15 minutes of skew.</source><target state="translated">Upravte čas používaný pro ověřování Cosmos DB v minutách (záporně, pokud je čas serveru napřed). Cosmos toleruje pouze asi +/- 15 minut odchylky.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TranslationSetup - Control Cosmos Time Offset (Minutes) - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2279258808 - Control 854175919 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Indicates whether the Cosmos DB key is configured</source><target state="translated">Určuje, zda je klíč Cosmos DB nakonfigurován</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TranslationSetup - Control CosmosKeyStatus - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2279258808 - Control 854175919 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cosmos Key Status</source><target state="translated">Stav klíče Cosmos</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TranslationSetup - Control CosmosKeyStatus - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2279258808 - Control 3149170790 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The name of the database in Cosmos DB. Default: translations</source><target state="translated">Název databáze v Cosmos DB. Výchozí: translations</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TranslationSetup - Control Database Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2279258808 - Control 513339096 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Last Sync Status</source><target state="translated">Stav poslední synchronizace</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TranslationSetup - Control Status - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2279258808 - Control 2723849176 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The date and time of the last sync operation</source><target state="translated">Datum a čas poslední synchronizace</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TranslationSetup - Control Last Sync DateTime - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2279258808 - Control 900697603 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The result of the last sync operation</source><target state="translated">Výsledek poslední synchronizace</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TranslationSetup - Control Last Sync Status - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2279258808 - Control 3336421100 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The number of records synced in the last operation</source><target state="translated">Počet záznamů synchronizovaných při poslední operaci</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TranslationSetup - Control Records Synced - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2279258808 - Control 1319494566 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sync Settings</source><target state="translated">Nastavení synchronizace</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TranslationSetup - Control SyncSettings - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2279258808 - Control 2767662982 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Enable automatic synchronization of translation corrections to Cosmos DB</source><target state="translated">Povolit automatickou synchronizaci oprav překladů do Cosmos DB</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TranslationSetup - Control Sync Enabled - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2279258808 - Action 1297282948 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Remove the stored Cosmos DB key</source><target state="translated">Odstranit uložený klíč Cosmos DB</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TranslationSetup - Action ClearCosmosKey - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2279258808 - Action 1297282948 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Clear Cosmos Key</source><target state="translated">Vymazat klíč Cosmos</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TranslationSetup - Action ClearCosmosKey - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2279258808 - Action 701328781 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Set the Azure Cosmos DB primary key (stored securely)</source><target state="translated">Nastavit primární klíč Azure Cosmos DB (uložen bezpečně)</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TranslationSetup - Action SetCosmosKey - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2279258808 - Action 701328781 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Set Cosmos Key</source><target state="translated">Nastavit klíč Cosmos</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TranslationSetup - Action SetCosmosKey - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2279258808 - Action 4271163235 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Create or update the Job Queue entry for automatic daily sync</source><target state="translated">Vytvořit nebo aktualizovat položku fronty úloh pro automatickou denní synchronizaci</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TranslationSetup - Action SetupJobQueue - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2279258808 - Action 4271163235 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Setup Job Queue</source><target state="translated">Nastavit frontu úloh</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TranslationSetup - Action SetupJobQueue - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2279258808 - Action 3470463835 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Manually run the sync operation now</source><target state="translated">Spustit synchronizaci ručně nyní</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TranslationSetup - Action SyncNow - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2279258808 - Action 3470463835 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sync Now</source><target state="translated">Synchronizovat nyní</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TranslationSetup - Action SyncNow - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2279258808 - Action 4263468516 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Test the connection to Azure Cosmos DB</source><target state="translated">Otestovat připojení k Azure Cosmos DB</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TranslationSetup - Action TestConnection - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2279258808 - Action 4263468516 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Test Connection</source><target state="translated">Otestovat připojení</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TranslationSetup - Action TestConnection - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2961250263 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Translations</source><target state="translated">Překlady</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TranslationsListPart - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2961250263 - Action 989939050 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Open the full Translations list</source><target state="translated">Otevřít celý seznam překladů</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TranslationsListPart - Action OpenList - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2961250263 - Action 989939050 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Open Full List</source><target state="translated">Otevřít celý seznam</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TranslationsListPart - Action OpenList - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2961250263 - Action 1514883969 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Open Translation Setup</source><target state="translated">Otevřít nastavení překladu</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TranslationsListPart - Action Setup - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2961250263 - Action 1514883969 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Setup</source><target state="translated">Nastavení</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TranslationsListPart - Action Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2961250263 - Action 3168527114 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sync all pending records to Cosmos DB</source><target state="translated">Synchronizovat všechny čekající záznamy do Cosmos DB</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TranslationsListPart - Action SyncAll - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2961250263 - Action 3168527114 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sync All</source><target state="translated">Synchronizovat vše</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TranslationsListPart - Action SyncAll - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2961250263 - Action 2373794858 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sync selected records to Cosmos DB</source><target state="translated">Synchronizovat vybrané záznamy do Cosmos DB</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TranslationsListPart - Action SyncSelected - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2961250263 - Action 2373794858 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sync Selected</source><target state="translated">Synchronizovat vybrané</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TranslationsListPart - Action SyncSelected - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1768841259 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Translator</source><target state="translated">Překladatel</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TranslatorRoleCenter - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1768841259 - Action 491025131 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View and manage captured translations</source><target state="translated">Zobrazit a spravovat zachycené překlady</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TranslatorRoleCenter - Action TranslationList - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1768841259 - Action 491025131 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Translations</source><target state="translated">Překlady</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TranslatorRoleCenter - Action TranslationList - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1768841259 - Action 1514883969 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Configure Cosmos DB sync settings</source><target state="translated">Konfigurovat nastavení synchronizace Cosmos DB</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TranslatorRoleCenter - Action Setup - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1768841259 - Action 1514883969 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Translation Setup</source><target state="translated">Nastavení překladu</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TranslatorRoleCenter - Action Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Profile 3749812207 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Translator</source><target state="translated">Překladatel</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Profile TranslatorProfile - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
