@@ -12,6 +12,7 @@
 
 # Claude Code local data
 .claude/
+CLAUDE.md
 
 # Accidental files
 nul
